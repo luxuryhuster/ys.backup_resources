@@ -3453,7 +3453,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10001,
     "addPropLevels": [
       5,
@@ -3481,7 +3481,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10001,
     "addPropLevels": [
@@ -3510,7 +3510,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10001,
     "addPropLevels": [
@@ -3539,7 +3539,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10001,
     "addPropLevels": [
@@ -3568,7 +3568,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10001,
     "addPropLevels": [
@@ -3597,7 +3597,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10001,
     "addPropLevels": [
       5,
@@ -3625,7 +3625,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10001,
     "addPropLevels": [
@@ -3654,7 +3654,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10001,
     "addPropLevels": [
@@ -3683,7 +3683,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10001,
     "addPropLevels": [
@@ -3712,7 +3712,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10001,
     "addPropLevels": [
@@ -3741,7 +3741,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10001,
     "addPropLevels": [
       5,
@@ -3769,7 +3769,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10001,
     "addPropLevels": [
@@ -3798,7 +3798,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10001,
     "addPropLevels": [
@@ -3827,7 +3827,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10001,
     "addPropLevels": [
@@ -3856,7 +3856,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10001,
     "addPropLevels": [
@@ -3885,7 +3885,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10001,
     "addPropLevels": [
       5,
@@ -3913,7 +3913,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10001,
     "addPropLevels": [
@@ -3942,7 +3942,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10001,
     "addPropLevels": [
@@ -3971,7 +3971,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10001,
     "addPropLevels": [
@@ -4000,7 +4000,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10001,
     "addPropLevels": [
@@ -4029,7 +4029,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10001,
     "addPropLevels": [
       5,
@@ -4057,7 +4057,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10001,
     "addPropLevels": [
@@ -4086,7 +4086,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10001,
     "addPropLevels": [
@@ -4115,7 +4115,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10001,
     "addPropLevels": [
@@ -4144,7 +4144,7 @@
     "showPic": "Eff_UI_RelicIcon_10001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10001,
     "addPropLevels": [
@@ -7553,7 +7553,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10002,
     "addPropLevels": [
       5,
@@ -7581,7 +7581,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10002,
     "addPropLevels": [
@@ -7610,7 +7610,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10002,
     "addPropLevels": [
@@ -7639,7 +7639,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10002,
     "addPropLevels": [
@@ -7668,7 +7668,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10002,
     "addPropLevels": [
@@ -7697,7 +7697,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10002,
     "addPropLevels": [
       5,
@@ -7725,7 +7725,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10002,
     "addPropLevels": [
@@ -7754,7 +7754,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10002,
     "addPropLevels": [
@@ -7783,7 +7783,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10002,
     "addPropLevels": [
@@ -7812,7 +7812,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10002,
     "addPropLevels": [
@@ -7841,7 +7841,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10002,
     "addPropLevels": [
       5,
@@ -7869,7 +7869,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10002,
     "addPropLevels": [
@@ -7898,7 +7898,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10002,
     "addPropLevels": [
@@ -7927,7 +7927,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10002,
     "addPropLevels": [
@@ -7956,7 +7956,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10002,
     "addPropLevels": [
@@ -7985,7 +7985,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10002,
     "addPropLevels": [
       5,
@@ -8013,7 +8013,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10002,
     "addPropLevels": [
@@ -8042,7 +8042,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10002,
     "addPropLevels": [
@@ -8071,7 +8071,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10002,
     "addPropLevels": [
@@ -8100,7 +8100,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10002,
     "addPropLevels": [
@@ -8129,7 +8129,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10002,
     "addPropLevels": [
       5,
@@ -8157,7 +8157,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10002,
     "addPropLevels": [
@@ -8186,7 +8186,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10002,
     "addPropLevels": [
@@ -8215,7 +8215,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10002,
     "addPropLevels": [
@@ -8244,7 +8244,7 @@
     "showPic": "Eff_UI_RelicIcon_10002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10002,
     "addPropLevels": [
@@ -11653,7 +11653,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10003,
     "addPropLevels": [
       5,
@@ -11681,7 +11681,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10003,
     "addPropLevels": [
@@ -11710,7 +11710,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10003,
     "addPropLevels": [
@@ -11739,7 +11739,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10003,
     "addPropLevels": [
@@ -11768,7 +11768,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10003,
     "addPropLevels": [
@@ -11797,7 +11797,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10003,
     "addPropLevels": [
       5,
@@ -11825,7 +11825,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10003,
     "addPropLevels": [
@@ -11854,7 +11854,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10003,
     "addPropLevels": [
@@ -11883,7 +11883,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10003,
     "addPropLevels": [
@@ -11912,7 +11912,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10003,
     "addPropLevels": [
@@ -11941,7 +11941,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10003,
     "addPropLevels": [
       5,
@@ -11969,7 +11969,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10003,
     "addPropLevels": [
@@ -11998,7 +11998,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10003,
     "addPropLevels": [
@@ -12027,7 +12027,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10003,
     "addPropLevels": [
@@ -12056,7 +12056,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10003,
     "addPropLevels": [
@@ -12085,7 +12085,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10003,
     "addPropLevels": [
       5,
@@ -12113,7 +12113,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10003,
     "addPropLevels": [
@@ -12142,7 +12142,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10003,
     "addPropLevels": [
@@ -12171,7 +12171,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10003,
     "addPropLevels": [
@@ -12200,7 +12200,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10003,
     "addPropLevels": [
@@ -12229,7 +12229,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10003,
     "addPropLevels": [
       5,
@@ -12257,7 +12257,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10003,
     "addPropLevels": [
@@ -12286,7 +12286,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10003,
     "addPropLevels": [
@@ -12315,7 +12315,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10003,
     "addPropLevels": [
@@ -12344,7 +12344,7 @@
     "showPic": "Eff_UI_RelicIcon_10003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10003,
     "addPropLevels": [
@@ -15753,7 +15753,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10004,
     "addPropLevels": [
       5,
@@ -15781,7 +15781,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10004,
     "addPropLevels": [
@@ -15810,7 +15810,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10004,
     "addPropLevels": [
@@ -15839,7 +15839,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10004,
     "addPropLevels": [
@@ -15868,7 +15868,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10004,
     "addPropLevels": [
@@ -15897,7 +15897,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10004,
     "addPropLevels": [
       5,
@@ -15925,7 +15925,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10004,
     "addPropLevels": [
@@ -15954,7 +15954,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10004,
     "addPropLevels": [
@@ -15983,7 +15983,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10004,
     "addPropLevels": [
@@ -16012,7 +16012,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10004,
     "addPropLevels": [
@@ -16041,7 +16041,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10004,
     "addPropLevels": [
       5,
@@ -16069,7 +16069,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10004,
     "addPropLevels": [
@@ -16098,7 +16098,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10004,
     "addPropLevels": [
@@ -16127,7 +16127,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10004,
     "addPropLevels": [
@@ -16156,7 +16156,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10004,
     "addPropLevels": [
@@ -16185,7 +16185,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10004,
     "addPropLevels": [
       5,
@@ -16213,7 +16213,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10004,
     "addPropLevels": [
@@ -16242,7 +16242,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10004,
     "addPropLevels": [
@@ -16271,7 +16271,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10004,
     "addPropLevels": [
@@ -16300,7 +16300,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10004,
     "addPropLevels": [
@@ -16329,7 +16329,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10004,
     "addPropLevels": [
       5,
@@ -16357,7 +16357,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10004,
     "addPropLevels": [
@@ -16386,7 +16386,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10004,
     "addPropLevels": [
@@ -16415,7 +16415,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10004,
     "addPropLevels": [
@@ -16444,7 +16444,7 @@
     "showPic": "Eff_UI_RelicIcon_10004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10004,
     "addPropLevels": [
@@ -19853,7 +19853,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10005,
     "addPropLevels": [
       5,
@@ -19881,7 +19881,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10005,
     "addPropLevels": [
@@ -19910,7 +19910,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10005,
     "addPropLevels": [
@@ -19939,7 +19939,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10005,
     "addPropLevels": [
@@ -19968,7 +19968,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10005,
     "addPropLevels": [
@@ -19997,7 +19997,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10005,
     "addPropLevels": [
       5,
@@ -20025,7 +20025,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10005,
     "addPropLevels": [
@@ -20054,7 +20054,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10005,
     "addPropLevels": [
@@ -20083,7 +20083,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10005,
     "addPropLevels": [
@@ -20112,7 +20112,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10005,
     "addPropLevels": [
@@ -20141,7 +20141,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10005,
     "addPropLevels": [
       5,
@@ -20169,7 +20169,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10005,
     "addPropLevels": [
@@ -20198,7 +20198,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10005,
     "addPropLevels": [
@@ -20227,7 +20227,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10005,
     "addPropLevels": [
@@ -20256,7 +20256,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10005,
     "addPropLevels": [
@@ -20285,7 +20285,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10005,
     "addPropLevels": [
       5,
@@ -20313,7 +20313,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10005,
     "addPropLevels": [
@@ -20342,7 +20342,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10005,
     "addPropLevels": [
@@ -20371,7 +20371,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10005,
     "addPropLevels": [
@@ -20400,7 +20400,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10005,
     "addPropLevels": [
@@ -20429,7 +20429,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10005,
     "addPropLevels": [
       5,
@@ -20457,7 +20457,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10005,
     "addPropLevels": [
@@ -20486,7 +20486,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10005,
     "addPropLevels": [
@@ -20515,7 +20515,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10005,
     "addPropLevels": [
@@ -20544,7 +20544,7 @@
     "showPic": "Eff_UI_RelicIcon_10005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10005,
     "addPropLevels": [
@@ -23953,7 +23953,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10006,
     "addPropLevels": [
       5,
@@ -23981,7 +23981,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10006,
     "addPropLevels": [
@@ -24010,7 +24010,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10006,
     "addPropLevels": [
@@ -24039,7 +24039,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10006,
     "addPropLevels": [
@@ -24068,7 +24068,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10006,
     "addPropLevels": [
@@ -24097,7 +24097,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10006,
     "addPropLevels": [
       5,
@@ -24125,7 +24125,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10006,
     "addPropLevels": [
@@ -24154,7 +24154,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10006,
     "addPropLevels": [
@@ -24183,7 +24183,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10006,
     "addPropLevels": [
@@ -24212,7 +24212,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10006,
     "addPropLevels": [
@@ -24241,7 +24241,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10006,
     "addPropLevels": [
       5,
@@ -24269,7 +24269,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10006,
     "addPropLevels": [
@@ -24298,7 +24298,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10006,
     "addPropLevels": [
@@ -24327,7 +24327,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10006,
     "addPropLevels": [
@@ -24356,7 +24356,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10006,
     "addPropLevels": [
@@ -24385,7 +24385,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10006,
     "addPropLevels": [
       5,
@@ -24413,7 +24413,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10006,
     "addPropLevels": [
@@ -24442,7 +24442,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10006,
     "addPropLevels": [
@@ -24471,7 +24471,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10006,
     "addPropLevels": [
@@ -24500,7 +24500,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10006,
     "addPropLevels": [
@@ -24529,7 +24529,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10006,
     "addPropLevels": [
       5,
@@ -24557,7 +24557,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10006,
     "addPropLevels": [
@@ -24586,7 +24586,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10006,
     "addPropLevels": [
@@ -24615,7 +24615,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10006,
     "addPropLevels": [
@@ -24644,7 +24644,7 @@
     "showPic": "Eff_UI_RelicIcon_10006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10006,
     "addPropLevels": [
@@ -28053,7 +28053,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10007,
     "addPropLevels": [
       5,
@@ -28081,7 +28081,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10007,
     "addPropLevels": [
@@ -28110,7 +28110,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10007,
     "addPropLevels": [
@@ -28139,7 +28139,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10007,
     "addPropLevels": [
@@ -28168,7 +28168,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10007,
     "addPropLevels": [
@@ -28197,7 +28197,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10007,
     "addPropLevels": [
       5,
@@ -28225,7 +28225,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10007,
     "addPropLevels": [
@@ -28254,7 +28254,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10007,
     "addPropLevels": [
@@ -28283,7 +28283,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10007,
     "addPropLevels": [
@@ -28312,7 +28312,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10007,
     "addPropLevels": [
@@ -28341,7 +28341,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10007,
     "addPropLevels": [
       5,
@@ -28369,7 +28369,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10007,
     "addPropLevels": [
@@ -28398,7 +28398,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10007,
     "addPropLevels": [
@@ -28427,7 +28427,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10007,
     "addPropLevels": [
@@ -28456,7 +28456,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10007,
     "addPropLevels": [
@@ -28485,7 +28485,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10007,
     "addPropLevels": [
       5,
@@ -28513,7 +28513,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10007,
     "addPropLevels": [
@@ -28542,7 +28542,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10007,
     "addPropLevels": [
@@ -28571,7 +28571,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10007,
     "addPropLevels": [
@@ -28600,7 +28600,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10007,
     "addPropLevels": [
@@ -28629,7 +28629,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10007,
     "addPropLevels": [
       5,
@@ -28657,7 +28657,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10007,
     "addPropLevels": [
@@ -28686,7 +28686,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10007,
     "addPropLevels": [
@@ -28715,7 +28715,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10007,
     "addPropLevels": [
@@ -28744,7 +28744,7 @@
     "showPic": "Eff_UI_RelicIcon_10007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10007,
     "addPropLevels": [
@@ -31308,7 +31308,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10008,
     "addPropLevels": [
       5,
@@ -31336,7 +31336,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10008,
     "addPropLevels": [
@@ -31365,7 +31365,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10008,
     "addPropLevels": [
@@ -31394,7 +31394,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10008,
     "addPropLevels": [
@@ -31423,7 +31423,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10008,
     "addPropLevels": [
@@ -31452,7 +31452,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10008,
     "addPropLevels": [
       5,
@@ -31480,7 +31480,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10008,
     "addPropLevels": [
@@ -31509,7 +31509,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10008,
     "addPropLevels": [
@@ -31538,7 +31538,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10008,
     "addPropLevels": [
@@ -31567,7 +31567,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10008,
     "addPropLevels": [
@@ -31596,7 +31596,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10008,
     "addPropLevels": [
       5,
@@ -31624,7 +31624,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10008,
     "addPropLevels": [
@@ -31653,7 +31653,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10008,
     "addPropLevels": [
@@ -31682,7 +31682,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10008,
     "addPropLevels": [
@@ -31711,7 +31711,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10008,
     "addPropLevels": [
@@ -31740,7 +31740,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10008,
     "addPropLevels": [
       5,
@@ -31768,7 +31768,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10008,
     "addPropLevels": [
@@ -31797,7 +31797,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10008,
     "addPropLevels": [
@@ -31826,7 +31826,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10008,
     "addPropLevels": [
@@ -31855,7 +31855,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10008,
     "addPropLevels": [
@@ -31884,7 +31884,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10008,
     "addPropLevels": [
       5,
@@ -31912,7 +31912,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10008,
     "addPropLevels": [
@@ -31941,7 +31941,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10008,
     "addPropLevels": [
@@ -31970,7 +31970,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10008,
     "addPropLevels": [
@@ -31999,7 +31999,7 @@
     "showPic": "Eff_UI_RelicIcon_10008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10008,
     "addPropLevels": [
@@ -35408,7 +35408,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10009,
     "addPropLevels": [
       5,
@@ -35436,7 +35436,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10009,
     "addPropLevels": [
@@ -35465,7 +35465,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10009,
     "addPropLevels": [
@@ -35494,7 +35494,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10009,
     "addPropLevels": [
@@ -35523,7 +35523,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10009,
     "addPropLevels": [
@@ -35552,7 +35552,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10009,
     "addPropLevels": [
       5,
@@ -35580,7 +35580,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10009,
     "addPropLevels": [
@@ -35609,7 +35609,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10009,
     "addPropLevels": [
@@ -35638,7 +35638,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10009,
     "addPropLevels": [
@@ -35667,7 +35667,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10009,
     "addPropLevels": [
@@ -35696,7 +35696,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10009,
     "addPropLevels": [
       5,
@@ -35724,7 +35724,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10009,
     "addPropLevels": [
@@ -35753,7 +35753,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10009,
     "addPropLevels": [
@@ -35782,7 +35782,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10009,
     "addPropLevels": [
@@ -35811,7 +35811,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10009,
     "addPropLevels": [
@@ -35840,7 +35840,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10009,
     "addPropLevels": [
       5,
@@ -35868,7 +35868,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10009,
     "addPropLevels": [
@@ -35897,7 +35897,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10009,
     "addPropLevels": [
@@ -35926,7 +35926,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10009,
     "addPropLevels": [
@@ -35955,7 +35955,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10009,
     "addPropLevels": [
@@ -35984,7 +35984,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10009,
     "addPropLevels": [
       5,
@@ -36012,7 +36012,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10009,
     "addPropLevels": [
@@ -36041,7 +36041,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10009,
     "addPropLevels": [
@@ -36070,7 +36070,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10009,
     "addPropLevels": [
@@ -36099,7 +36099,7 @@
     "showPic": "Eff_UI_RelicIcon_10009_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10009,
     "addPropLevels": [
@@ -46268,7 +46268,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 10012,
     "addPropLevels": [
       5,
@@ -46296,7 +46296,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 10012,
     "addPropLevels": [
@@ -46325,7 +46325,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 10012,
     "addPropLevels": [
@@ -46354,7 +46354,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 10012,
     "addPropLevels": [
@@ -46383,7 +46383,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 10012,
     "addPropLevels": [
@@ -46412,7 +46412,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 10012,
     "addPropLevels": [
       5,
@@ -46440,7 +46440,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 10012,
     "addPropLevels": [
@@ -46469,7 +46469,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 10012,
     "addPropLevels": [
@@ -46498,7 +46498,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 10012,
     "addPropLevels": [
@@ -46527,7 +46527,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 10012,
     "addPropLevels": [
@@ -46556,7 +46556,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 10012,
     "addPropLevels": [
       5,
@@ -46584,7 +46584,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 10012,
     "addPropLevels": [
@@ -46613,7 +46613,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 10012,
     "addPropLevels": [
@@ -46642,7 +46642,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 10012,
     "addPropLevels": [
@@ -46671,7 +46671,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 10012,
     "addPropLevels": [
@@ -46700,7 +46700,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 10012,
     "addPropLevels": [
       5,
@@ -46728,7 +46728,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 10012,
     "addPropLevels": [
@@ -46757,7 +46757,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 10012,
     "addPropLevels": [
@@ -46786,7 +46786,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 10012,
     "addPropLevels": [
@@ -46815,7 +46815,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 10012,
     "addPropLevels": [
@@ -46844,7 +46844,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 10012,
     "addPropLevels": [
       5,
@@ -46872,7 +46872,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 10012,
     "addPropLevels": [
@@ -46901,7 +46901,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 10012,
     "addPropLevels": [
@@ -46930,7 +46930,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 10012,
     "addPropLevels": [
@@ -46959,7 +46959,7 @@
     "showPic": "Eff_UI_RelicIcon_10012_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 10012,
     "addPropLevels": [
@@ -52058,7 +52058,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 14001,
     "addPropLevels": [
       5,
@@ -52086,7 +52086,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 14001,
     "addPropLevels": [
@@ -52115,7 +52115,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 14001,
     "addPropLevels": [
@@ -52144,7 +52144,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 14001,
     "addPropLevels": [
@@ -52173,7 +52173,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 14001,
     "addPropLevels": [
@@ -52202,7 +52202,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 14001,
     "addPropLevels": [
       5,
@@ -52230,7 +52230,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 14001,
     "addPropLevels": [
@@ -52259,7 +52259,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 14001,
     "addPropLevels": [
@@ -52288,7 +52288,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 14001,
     "addPropLevels": [
@@ -52317,7 +52317,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 14001,
     "addPropLevels": [
@@ -52346,7 +52346,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 14001,
     "addPropLevels": [
       5,
@@ -52374,7 +52374,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 14001,
     "addPropLevels": [
@@ -52403,7 +52403,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 14001,
     "addPropLevels": [
@@ -52432,7 +52432,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 14001,
     "addPropLevels": [
@@ -52461,7 +52461,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 14001,
     "addPropLevels": [
@@ -52490,7 +52490,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 14001,
     "addPropLevels": [
       5,
@@ -52518,7 +52518,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 14001,
     "addPropLevels": [
@@ -52547,7 +52547,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 14001,
     "addPropLevels": [
@@ -52576,7 +52576,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 14001,
     "addPropLevels": [
@@ -52605,7 +52605,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 14001,
     "addPropLevels": [
@@ -52634,7 +52634,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 14001,
     "addPropLevels": [
       5,
@@ -52662,7 +52662,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 14001,
     "addPropLevels": [
@@ -52691,7 +52691,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 14001,
     "addPropLevels": [
@@ -52720,7 +52720,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 14001,
     "addPropLevels": [
@@ -52749,7 +52749,7 @@
     "showPic": "Eff_UI_RelicIcon_14001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 14001,
     "addPropLevels": [
@@ -54468,7 +54468,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 14002,
     "addPropLevels": [
       5,
@@ -54496,7 +54496,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 14002,
     "addPropLevels": [
@@ -54525,7 +54525,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 14002,
     "addPropLevels": [
@@ -54554,7 +54554,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 14002,
     "addPropLevels": [
@@ -54583,7 +54583,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 14002,
     "addPropLevels": [
@@ -54612,7 +54612,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 14002,
     "addPropLevels": [
       5,
@@ -54640,7 +54640,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 14002,
     "addPropLevels": [
@@ -54669,7 +54669,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 14002,
     "addPropLevels": [
@@ -54698,7 +54698,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 14002,
     "addPropLevels": [
@@ -54727,7 +54727,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 14002,
     "addPropLevels": [
@@ -54756,7 +54756,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 14002,
     "addPropLevels": [
       5,
@@ -54784,7 +54784,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 14002,
     "addPropLevels": [
@@ -54813,7 +54813,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 14002,
     "addPropLevels": [
@@ -54842,7 +54842,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 14002,
     "addPropLevels": [
@@ -54871,7 +54871,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 14002,
     "addPropLevels": [
@@ -54900,7 +54900,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 14002,
     "addPropLevels": [
       5,
@@ -54928,7 +54928,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 14002,
     "addPropLevels": [
@@ -54957,7 +54957,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 14002,
     "addPropLevels": [
@@ -54986,7 +54986,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 14002,
     "addPropLevels": [
@@ -55015,7 +55015,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 14002,
     "addPropLevels": [
@@ -55044,7 +55044,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 14002,
     "addPropLevels": [
       5,
@@ -55072,7 +55072,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 14002,
     "addPropLevels": [
@@ -55101,7 +55101,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 14002,
     "addPropLevels": [
@@ -55130,7 +55130,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 14002,
     "addPropLevels": [
@@ -55159,7 +55159,7 @@
     "showPic": "Eff_UI_RelicIcon_14002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 14002,
     "addPropLevels": [
@@ -56878,7 +56878,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 14003,
     "addPropLevels": [
       5,
@@ -56906,7 +56906,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 14003,
     "addPropLevels": [
@@ -56935,7 +56935,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 14003,
     "addPropLevels": [
@@ -56964,7 +56964,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 14003,
     "addPropLevels": [
@@ -56993,7 +56993,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 14003,
     "addPropLevels": [
@@ -57022,7 +57022,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 14003,
     "addPropLevels": [
       5,
@@ -57050,7 +57050,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 14003,
     "addPropLevels": [
@@ -57079,7 +57079,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 14003,
     "addPropLevels": [
@@ -57108,7 +57108,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 14003,
     "addPropLevels": [
@@ -57137,7 +57137,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 14003,
     "addPropLevels": [
@@ -57166,7 +57166,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 14003,
     "addPropLevels": [
       5,
@@ -57194,7 +57194,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 14003,
     "addPropLevels": [
@@ -57223,7 +57223,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 14003,
     "addPropLevels": [
@@ -57252,7 +57252,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 14003,
     "addPropLevels": [
@@ -57281,7 +57281,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 14003,
     "addPropLevels": [
@@ -57310,7 +57310,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 14003,
     "addPropLevels": [
       5,
@@ -57338,7 +57338,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 14003,
     "addPropLevels": [
@@ -57367,7 +57367,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 14003,
     "addPropLevels": [
@@ -57396,7 +57396,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 14003,
     "addPropLevels": [
@@ -57425,7 +57425,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 14003,
     "addPropLevels": [
@@ -57454,7 +57454,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 14003,
     "addPropLevels": [
       5,
@@ -57482,7 +57482,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 14003,
     "addPropLevels": [
@@ -57511,7 +57511,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 14003,
     "addPropLevels": [
@@ -57540,7 +57540,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 14003,
     "addPropLevels": [
@@ -57569,7 +57569,7 @@
     "showPic": "Eff_UI_RelicIcon_14003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 14003,
     "addPropLevels": [
@@ -59288,7 +59288,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 14004,
     "addPropLevels": [
       5,
@@ -59316,7 +59316,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 14004,
     "addPropLevels": [
@@ -59345,7 +59345,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 14004,
     "addPropLevels": [
@@ -59374,7 +59374,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 14004,
     "addPropLevels": [
@@ -59403,7 +59403,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 14004,
     "addPropLevels": [
@@ -59432,7 +59432,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 14004,
     "addPropLevels": [
       5,
@@ -59460,7 +59460,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 14004,
     "addPropLevels": [
@@ -59489,7 +59489,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 14004,
     "addPropLevels": [
@@ -59518,7 +59518,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 14004,
     "addPropLevels": [
@@ -59547,7 +59547,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 14004,
     "addPropLevels": [
@@ -59576,7 +59576,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 14004,
     "addPropLevels": [
       5,
@@ -59604,7 +59604,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 14004,
     "addPropLevels": [
@@ -59633,7 +59633,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 14004,
     "addPropLevels": [
@@ -59662,7 +59662,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 14004,
     "addPropLevels": [
@@ -59691,7 +59691,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 14004,
     "addPropLevels": [
@@ -59720,7 +59720,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 14004,
     "addPropLevels": [
       5,
@@ -59748,7 +59748,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 14004,
     "addPropLevels": [
@@ -59777,7 +59777,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 14004,
     "addPropLevels": [
@@ -59806,7 +59806,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 14004,
     "addPropLevels": [
@@ -59835,7 +59835,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 14004,
     "addPropLevels": [
@@ -59864,7 +59864,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 14004,
     "addPropLevels": [
       5,
@@ -59892,7 +59892,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 14004,
     "addPropLevels": [
@@ -59921,7 +59921,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 14004,
     "addPropLevels": [
@@ -59950,7 +59950,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 14004,
     "addPropLevels": [
@@ -59979,7 +59979,7 @@
     "showPic": "Eff_UI_RelicIcon_14004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 14004,
     "addPropLevels": [
@@ -61698,7 +61698,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15001,
     "addPropLevels": [
       5,
@@ -61726,7 +61726,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15001,
     "addPropLevels": [
@@ -61755,7 +61755,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15001,
     "addPropLevels": [
@@ -61784,7 +61784,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15001,
     "addPropLevels": [
@@ -61813,7 +61813,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15001,
     "addPropLevels": [
@@ -61842,7 +61842,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15001,
     "addPropLevels": [
       5,
@@ -61870,7 +61870,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15001,
     "addPropLevels": [
@@ -61899,7 +61899,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15001,
     "addPropLevels": [
@@ -61928,7 +61928,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15001,
     "addPropLevels": [
@@ -61957,7 +61957,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15001,
     "addPropLevels": [
@@ -61986,7 +61986,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15001,
     "addPropLevels": [
       5,
@@ -62014,7 +62014,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15001,
     "addPropLevels": [
@@ -62043,7 +62043,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15001,
     "addPropLevels": [
@@ -62072,7 +62072,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15001,
     "addPropLevels": [
@@ -62101,7 +62101,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15001,
     "addPropLevels": [
@@ -62130,7 +62130,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15001,
     "addPropLevels": [
       5,
@@ -62158,7 +62158,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15001,
     "addPropLevels": [
@@ -62187,7 +62187,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15001,
     "addPropLevels": [
@@ -62216,7 +62216,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15001,
     "addPropLevels": [
@@ -62245,7 +62245,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15001,
     "addPropLevels": [
@@ -62274,7 +62274,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15001,
     "addPropLevels": [
       5,
@@ -62302,7 +62302,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15001,
     "addPropLevels": [
@@ -62331,7 +62331,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15001,
     "addPropLevels": [
@@ -62360,7 +62360,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15001,
     "addPropLevels": [
@@ -62389,7 +62389,7 @@
     "showPic": "Eff_UI_RelicIcon_15001_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15001,
     "addPropLevels": [
@@ -64108,7 +64108,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15002,
     "addPropLevels": [
       5,
@@ -64136,7 +64136,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15002,
     "addPropLevels": [
@@ -64165,7 +64165,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15002,
     "addPropLevels": [
@@ -64194,7 +64194,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15002,
     "addPropLevels": [
@@ -64223,7 +64223,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15002,
     "addPropLevels": [
@@ -64252,7 +64252,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15002,
     "addPropLevels": [
       5,
@@ -64280,7 +64280,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15002,
     "addPropLevels": [
@@ -64309,7 +64309,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15002,
     "addPropLevels": [
@@ -64338,7 +64338,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15002,
     "addPropLevels": [
@@ -64367,7 +64367,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15002,
     "addPropLevels": [
@@ -64396,7 +64396,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15002,
     "addPropLevels": [
       5,
@@ -64424,7 +64424,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15002,
     "addPropLevels": [
@@ -64453,7 +64453,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15002,
     "addPropLevels": [
@@ -64482,7 +64482,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15002,
     "addPropLevels": [
@@ -64511,7 +64511,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15002,
     "addPropLevels": [
@@ -64540,7 +64540,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15002,
     "addPropLevels": [
       5,
@@ -64568,7 +64568,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15002,
     "addPropLevels": [
@@ -64597,7 +64597,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15002,
     "addPropLevels": [
@@ -64626,7 +64626,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15002,
     "addPropLevels": [
@@ -64655,7 +64655,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15002,
     "addPropLevels": [
@@ -64684,7 +64684,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15002,
     "addPropLevels": [
       5,
@@ -64712,7 +64712,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15002,
     "addPropLevels": [
@@ -64741,7 +64741,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15002,
     "addPropLevels": [
@@ -64770,7 +64770,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15002,
     "addPropLevels": [
@@ -64799,7 +64799,7 @@
     "showPic": "Eff_UI_RelicIcon_15002_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15002,
     "addPropLevels": [
@@ -66518,7 +66518,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15003,
     "addPropLevels": [
       5,
@@ -66546,7 +66546,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15003,
     "addPropLevels": [
@@ -66575,7 +66575,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15003,
     "addPropLevels": [
@@ -66604,7 +66604,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15003,
     "addPropLevels": [
@@ -66633,7 +66633,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15003,
     "addPropLevels": [
@@ -66662,7 +66662,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15003,
     "addPropLevels": [
       5,
@@ -66690,7 +66690,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15003,
     "addPropLevels": [
@@ -66719,7 +66719,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15003,
     "addPropLevels": [
@@ -66748,7 +66748,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15003,
     "addPropLevels": [
@@ -66777,7 +66777,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15003,
     "addPropLevels": [
@@ -66806,7 +66806,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15003,
     "addPropLevels": [
       5,
@@ -66834,7 +66834,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15003,
     "addPropLevels": [
@@ -66863,7 +66863,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15003,
     "addPropLevels": [
@@ -66892,7 +66892,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15003,
     "addPropLevels": [
@@ -66921,7 +66921,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15003,
     "addPropLevels": [
@@ -66950,7 +66950,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15003,
     "addPropLevels": [
       5,
@@ -66978,7 +66978,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15003,
     "addPropLevels": [
@@ -67007,7 +67007,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15003,
     "addPropLevels": [
@@ -67036,7 +67036,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15003,
     "addPropLevels": [
@@ -67065,7 +67065,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15003,
     "addPropLevels": [
@@ -67094,7 +67094,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15003,
     "addPropLevels": [
       5,
@@ -67122,7 +67122,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15003,
     "addPropLevels": [
@@ -67151,7 +67151,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15003,
     "addPropLevels": [
@@ -67180,7 +67180,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15003,
     "addPropLevels": [
@@ -67209,7 +67209,7 @@
     "showPic": "Eff_UI_RelicIcon_15003_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15003,
     "addPropLevels": [
@@ -68928,7 +68928,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15004,
     "addPropLevels": [
       5,
@@ -68956,7 +68956,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15004,
     "addPropLevels": [
@@ -68985,7 +68985,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15004,
     "addPropLevels": [
@@ -69014,7 +69014,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15004,
     "addPropLevels": [
@@ -69043,7 +69043,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15004,
     "addPropLevels": [
@@ -69072,7 +69072,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15004,
     "addPropLevels": [
       5,
@@ -69100,7 +69100,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15004,
     "addPropLevels": [
@@ -69129,7 +69129,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15004,
     "addPropLevels": [
@@ -69158,7 +69158,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15004,
     "addPropLevels": [
@@ -69187,7 +69187,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15004,
     "addPropLevels": [
@@ -69216,7 +69216,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15004,
     "addPropLevels": [
       5,
@@ -69244,7 +69244,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15004,
     "addPropLevels": [
@@ -69273,7 +69273,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15004,
     "addPropLevels": [
@@ -69302,7 +69302,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15004,
     "addPropLevels": [
@@ -69331,7 +69331,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15004,
     "addPropLevels": [
@@ -69360,7 +69360,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15004,
     "addPropLevels": [
       5,
@@ -69388,7 +69388,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15004,
     "addPropLevels": [
@@ -69417,7 +69417,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15004,
     "addPropLevels": [
@@ -69446,7 +69446,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15004,
     "addPropLevels": [
@@ -69475,7 +69475,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15004,
     "addPropLevels": [
@@ -69504,7 +69504,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15004,
     "addPropLevels": [
       5,
@@ -69532,7 +69532,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15004,
     "addPropLevels": [
@@ -69561,7 +69561,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15004,
     "addPropLevels": [
@@ -69590,7 +69590,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15004,
     "addPropLevels": [
@@ -69619,7 +69619,7 @@
     "showPic": "Eff_UI_RelicIcon_15004_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15004,
     "addPropLevels": [
@@ -71338,7 +71338,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15005,
     "addPropLevels": [
       5,
@@ -71366,7 +71366,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15005,
     "addPropLevels": [
@@ -71395,7 +71395,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15005,
     "addPropLevels": [
@@ -71424,7 +71424,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15005,
     "addPropLevels": [
@@ -71453,7 +71453,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15005,
     "addPropLevels": [
@@ -71482,7 +71482,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15005,
     "addPropLevels": [
       5,
@@ -71510,7 +71510,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15005,
     "addPropLevels": [
@@ -71539,7 +71539,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15005,
     "addPropLevels": [
@@ -71568,7 +71568,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15005,
     "addPropLevels": [
@@ -71597,7 +71597,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15005,
     "addPropLevels": [
@@ -71626,7 +71626,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15005,
     "addPropLevels": [
       5,
@@ -71654,7 +71654,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15005,
     "addPropLevels": [
@@ -71683,7 +71683,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15005,
     "addPropLevels": [
@@ -71712,7 +71712,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15005,
     "addPropLevels": [
@@ -71741,7 +71741,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15005,
     "addPropLevels": [
@@ -71770,7 +71770,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15005,
     "addPropLevels": [
       5,
@@ -71798,7 +71798,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15005,
     "addPropLevels": [
@@ -71827,7 +71827,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15005,
     "addPropLevels": [
@@ -71856,7 +71856,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15005,
     "addPropLevels": [
@@ -71885,7 +71885,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15005,
     "addPropLevels": [
@@ -71914,7 +71914,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15005,
     "addPropLevels": [
       5,
@@ -71942,7 +71942,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15005,
     "addPropLevels": [
@@ -71971,7 +71971,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15005,
     "addPropLevels": [
@@ -72000,7 +72000,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15005,
     "addPropLevels": [
@@ -72029,7 +72029,7 @@
     "showPic": "Eff_UI_RelicIcon_15005_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15005,
     "addPropLevels": [
@@ -73748,7 +73748,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15006,
     "addPropLevels": [
       5,
@@ -73776,7 +73776,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15006,
     "addPropLevels": [
@@ -73805,7 +73805,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15006,
     "addPropLevels": [
@@ -73834,7 +73834,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15006,
     "addPropLevels": [
@@ -73863,7 +73863,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15006,
     "addPropLevels": [
@@ -73892,7 +73892,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15006,
     "addPropLevels": [
       5,
@@ -73920,7 +73920,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15006,
     "addPropLevels": [
@@ -73949,7 +73949,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15006,
     "addPropLevels": [
@@ -73978,7 +73978,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15006,
     "addPropLevels": [
@@ -74007,7 +74007,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15006,
     "addPropLevels": [
@@ -74036,7 +74036,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15006,
     "addPropLevels": [
       5,
@@ -74064,7 +74064,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15006,
     "addPropLevels": [
@@ -74093,7 +74093,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15006,
     "addPropLevels": [
@@ -74122,7 +74122,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15006,
     "addPropLevels": [
@@ -74151,7 +74151,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15006,
     "addPropLevels": [
@@ -74180,7 +74180,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15006,
     "addPropLevels": [
       5,
@@ -74208,7 +74208,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15006,
     "addPropLevels": [
@@ -74237,7 +74237,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15006,
     "addPropLevels": [
@@ -74266,7 +74266,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15006,
     "addPropLevels": [
@@ -74295,7 +74295,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15006,
     "addPropLevels": [
@@ -74324,7 +74324,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15006,
     "addPropLevels": [
       5,
@@ -74352,7 +74352,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15006,
     "addPropLevels": [
@@ -74381,7 +74381,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15006,
     "addPropLevels": [
@@ -74410,7 +74410,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15006,
     "addPropLevels": [
@@ -74439,7 +74439,7 @@
     "showPic": "Eff_UI_RelicIcon_15006_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15006,
     "addPropLevels": [
@@ -76158,7 +76158,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15007,
     "addPropLevels": [
       5,
@@ -76186,7 +76186,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15007,
     "addPropLevels": [
@@ -76215,7 +76215,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15007,
     "addPropLevels": [
@@ -76244,7 +76244,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15007,
     "addPropLevels": [
@@ -76273,7 +76273,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15007,
     "addPropLevels": [
@@ -76302,7 +76302,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15007,
     "addPropLevels": [
       5,
@@ -76330,7 +76330,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15007,
     "addPropLevels": [
@@ -76359,7 +76359,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15007,
     "addPropLevels": [
@@ -76388,7 +76388,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15007,
     "addPropLevels": [
@@ -76417,7 +76417,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15007,
     "addPropLevels": [
@@ -76446,7 +76446,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15007,
     "addPropLevels": [
       5,
@@ -76474,7 +76474,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15007,
     "addPropLevels": [
@@ -76503,7 +76503,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15007,
     "addPropLevels": [
@@ -76532,7 +76532,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15007,
     "addPropLevels": [
@@ -76561,7 +76561,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15007,
     "addPropLevels": [
@@ -76590,7 +76590,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15007,
     "addPropLevels": [
       5,
@@ -76618,7 +76618,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15007,
     "addPropLevels": [
@@ -76647,7 +76647,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15007,
     "addPropLevels": [
@@ -76676,7 +76676,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15007,
     "addPropLevels": [
@@ -76705,7 +76705,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15007,
     "addPropLevels": [
@@ -76734,7 +76734,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15007,
     "addPropLevels": [
       5,
@@ -76762,7 +76762,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15007,
     "addPropLevels": [
@@ -76791,7 +76791,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15007,
     "addPropLevels": [
@@ -76820,7 +76820,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15007,
     "addPropLevels": [
@@ -76849,7 +76849,7 @@
     "showPic": "Eff_UI_RelicIcon_15007_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15007,
     "addPropLevels": [
@@ -78568,7 +78568,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15008,
     "addPropLevels": [
       5,
@@ -78596,7 +78596,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15008,
     "addPropLevels": [
@@ -78625,7 +78625,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15008,
     "addPropLevels": [
@@ -78654,7 +78654,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15008,
     "addPropLevels": [
@@ -78683,7 +78683,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15008,
     "addPropLevels": [
@@ -78712,7 +78712,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15008,
     "addPropLevels": [
       5,
@@ -78740,7 +78740,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15008,
     "addPropLevels": [
@@ -78769,7 +78769,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15008,
     "addPropLevels": [
@@ -78798,7 +78798,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15008,
     "addPropLevels": [
@@ -78827,7 +78827,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15008,
     "addPropLevels": [
@@ -78856,7 +78856,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15008,
     "addPropLevels": [
       5,
@@ -78884,7 +78884,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15008,
     "addPropLevels": [
@@ -78913,7 +78913,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15008,
     "addPropLevels": [
@@ -78942,7 +78942,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15008,
     "addPropLevels": [
@@ -78971,7 +78971,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15008,
     "addPropLevels": [
@@ -79000,7 +79000,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15008,
     "addPropLevels": [
       5,
@@ -79028,7 +79028,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15008,
     "addPropLevels": [
@@ -79057,7 +79057,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15008,
     "addPropLevels": [
@@ -79086,7 +79086,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15008,
     "addPropLevels": [
@@ -79115,7 +79115,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15008,
     "addPropLevels": [
@@ -79144,7 +79144,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15008,
     "addPropLevels": [
       5,
@@ -79172,7 +79172,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15008,
     "addPropLevels": [
@@ -79201,7 +79201,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15008,
     "addPropLevels": [
@@ -79230,7 +79230,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15008,
     "addPropLevels": [
@@ -79259,7 +79259,7 @@
     "showPic": "Eff_UI_RelicIcon_15008_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15008,
     "addPropLevels": [
@@ -79626,7 +79626,7 @@
     "showPic": "Eff_UI_RelicIcon_15009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15009,
     "addPropLevels": [
       5,
@@ -79654,7 +79654,7 @@
     "showPic": "Eff_UI_RelicIcon_15009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15009,
     "addPropLevels": [
@@ -79683,7 +79683,7 @@
     "showPic": "Eff_UI_RelicIcon_15009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15009,
     "addPropLevels": [
@@ -79712,7 +79712,7 @@
     "showPic": "Eff_UI_RelicIcon_15009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15009,
     "addPropLevels": [
@@ -79741,7 +79741,7 @@
     "showPic": "Eff_UI_RelicIcon_15009_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15009,
     "addPropLevels": [
@@ -80108,7 +80108,7 @@
     "showPic": "Eff_UI_RelicIcon_15010_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15010,
     "addPropLevels": [
       5,
@@ -80136,7 +80136,7 @@
     "showPic": "Eff_UI_RelicIcon_15010_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15010,
     "addPropLevels": [
@@ -80165,7 +80165,7 @@
     "showPic": "Eff_UI_RelicIcon_15010_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15010,
     "addPropLevels": [
@@ -80194,7 +80194,7 @@
     "showPic": "Eff_UI_RelicIcon_15010_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15010,
     "addPropLevels": [
@@ -80223,7 +80223,7 @@
     "showPic": "Eff_UI_RelicIcon_15010_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15010,
     "addPropLevels": [
@@ -80590,7 +80590,7 @@
     "showPic": "Eff_UI_RelicIcon_15011_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15011,
     "addPropLevels": [
       5,
@@ -80618,7 +80618,7 @@
     "showPic": "Eff_UI_RelicIcon_15011_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15011,
     "addPropLevels": [
@@ -80647,7 +80647,7 @@
     "showPic": "Eff_UI_RelicIcon_15011_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15011,
     "addPropLevels": [
@@ -80676,7 +80676,7 @@
     "showPic": "Eff_UI_RelicIcon_15011_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15011,
     "addPropLevels": [
@@ -80705,7 +80705,7 @@
     "showPic": "Eff_UI_RelicIcon_15011_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15011,
     "addPropLevels": [
@@ -81072,7 +81072,7 @@
     "showPic": "Eff_UI_RelicIcon_15012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15012,
     "addPropLevels": [
       5,
@@ -81100,7 +81100,7 @@
     "showPic": "Eff_UI_RelicIcon_15012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15012,
     "addPropLevels": [
@@ -81129,7 +81129,7 @@
     "showPic": "Eff_UI_RelicIcon_15012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15012,
     "addPropLevels": [
@@ -81158,7 +81158,7 @@
     "showPic": "Eff_UI_RelicIcon_15012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15012,
     "addPropLevels": [
@@ -81187,7 +81187,7 @@
     "showPic": "Eff_UI_RelicIcon_15012_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15012,
     "addPropLevels": [
@@ -81554,7 +81554,7 @@
     "showPic": "Eff_UI_RelicIcon_15013_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15013,
     "addPropLevels": [
       5,
@@ -81582,7 +81582,7 @@
     "showPic": "Eff_UI_RelicIcon_15013_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15013,
     "addPropLevels": [
@@ -81611,7 +81611,7 @@
     "showPic": "Eff_UI_RelicIcon_15013_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15013,
     "addPropLevels": [
@@ -81640,7 +81640,7 @@
     "showPic": "Eff_UI_RelicIcon_15013_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15013,
     "addPropLevels": [
@@ -81669,7 +81669,7 @@
     "showPic": "Eff_UI_RelicIcon_15013_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15013,
     "addPropLevels": [
@@ -83388,7 +83388,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15014,
     "addPropLevels": [
       5,
@@ -83416,7 +83416,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15014,
     "addPropLevels": [
@@ -83445,7 +83445,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15014,
     "addPropLevels": [
@@ -83474,7 +83474,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15014,
     "addPropLevels": [
@@ -83503,7 +83503,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15014,
     "addPropLevels": [
@@ -83532,7 +83532,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15014,
     "addPropLevels": [
       5,
@@ -83560,7 +83560,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15014,
     "addPropLevels": [
@@ -83589,7 +83589,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15014,
     "addPropLevels": [
@@ -83618,7 +83618,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15014,
     "addPropLevels": [
@@ -83647,7 +83647,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15014,
     "addPropLevels": [
@@ -83676,7 +83676,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15014,
     "addPropLevels": [
       5,
@@ -83704,7 +83704,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15014,
     "addPropLevels": [
@@ -83733,7 +83733,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15014,
     "addPropLevels": [
@@ -83762,7 +83762,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15014,
     "addPropLevels": [
@@ -83791,7 +83791,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15014,
     "addPropLevels": [
@@ -83820,7 +83820,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15014,
     "addPropLevels": [
       5,
@@ -83848,7 +83848,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15014,
     "addPropLevels": [
@@ -83877,7 +83877,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15014,
     "addPropLevels": [
@@ -83906,7 +83906,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15014,
     "addPropLevels": [
@@ -83935,7 +83935,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15014,
     "addPropLevels": [
@@ -83964,7 +83964,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15014,
     "addPropLevels": [
       5,
@@ -83992,7 +83992,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15014,
     "addPropLevels": [
@@ -84021,7 +84021,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15014,
     "addPropLevels": [
@@ -84050,7 +84050,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15014,
     "addPropLevels": [
@@ -84079,7 +84079,7 @@
     "showPic": "Eff_UI_RelicIcon_15014_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15014,
     "addPropLevels": [
@@ -85798,7 +85798,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15015,
     "addPropLevels": [
       5,
@@ -85826,7 +85826,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15015,
     "addPropLevels": [
@@ -85855,7 +85855,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15015,
     "addPropLevels": [
@@ -85884,7 +85884,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15015,
     "addPropLevels": [
@@ -85913,7 +85913,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15015,
     "addPropLevels": [
@@ -85942,7 +85942,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15015,
     "addPropLevels": [
       5,
@@ -85970,7 +85970,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15015,
     "addPropLevels": [
@@ -85999,7 +85999,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15015,
     "addPropLevels": [
@@ -86028,7 +86028,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15015,
     "addPropLevels": [
@@ -86057,7 +86057,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15015,
     "addPropLevels": [
@@ -86086,7 +86086,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15015,
     "addPropLevels": [
       5,
@@ -86114,7 +86114,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15015,
     "addPropLevels": [
@@ -86143,7 +86143,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15015,
     "addPropLevels": [
@@ -86172,7 +86172,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15015,
     "addPropLevels": [
@@ -86201,7 +86201,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15015,
     "addPropLevels": [
@@ -86230,7 +86230,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15015,
     "addPropLevels": [
       5,
@@ -86258,7 +86258,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15015,
     "addPropLevels": [
@@ -86287,7 +86287,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15015,
     "addPropLevels": [
@@ -86316,7 +86316,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15015,
     "addPropLevels": [
@@ -86345,7 +86345,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15015,
     "addPropLevels": [
@@ -86374,7 +86374,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15015,
     "addPropLevels": [
       5,
@@ -86402,7 +86402,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15015,
     "addPropLevels": [
@@ -86431,7 +86431,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15015,
     "addPropLevels": [
@@ -86460,7 +86460,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15015,
     "addPropLevels": [
@@ -86489,7 +86489,7 @@
     "showPic": "Eff_UI_RelicIcon_15015_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15015,
     "addPropLevels": [
@@ -88208,7 +88208,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15016,
     "addPropLevels": [
       5,
@@ -88236,7 +88236,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15016,
     "addPropLevels": [
@@ -88265,7 +88265,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15016,
     "addPropLevels": [
@@ -88294,7 +88294,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15016,
     "addPropLevels": [
@@ -88323,7 +88323,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15016,
     "addPropLevels": [
@@ -88352,7 +88352,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15016,
     "addPropLevels": [
       5,
@@ -88380,7 +88380,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15016,
     "addPropLevels": [
@@ -88409,7 +88409,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15016,
     "addPropLevels": [
@@ -88438,7 +88438,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15016,
     "addPropLevels": [
@@ -88467,7 +88467,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15016,
     "addPropLevels": [
@@ -88496,7 +88496,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15016,
     "addPropLevels": [
       5,
@@ -88524,7 +88524,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15016,
     "addPropLevels": [
@@ -88553,7 +88553,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15016,
     "addPropLevels": [
@@ -88582,7 +88582,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15016,
     "addPropLevels": [
@@ -88611,7 +88611,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15016,
     "addPropLevels": [
@@ -88640,7 +88640,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15016,
     "addPropLevels": [
       5,
@@ -88668,7 +88668,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15016,
     "addPropLevels": [
@@ -88697,7 +88697,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15016,
     "addPropLevels": [
@@ -88726,7 +88726,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15016,
     "addPropLevels": [
@@ -88755,7 +88755,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15016,
     "addPropLevels": [
@@ -88784,7 +88784,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15016,
     "addPropLevels": [
       5,
@@ -88812,7 +88812,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15016,
     "addPropLevels": [
@@ -88841,7 +88841,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15016,
     "addPropLevels": [
@@ -88870,7 +88870,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15016,
     "addPropLevels": [
@@ -88899,7 +88899,7 @@
     "showPic": "Eff_UI_RelicIcon_15016_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15016,
     "addPropLevels": [
@@ -90618,7 +90618,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15017,
     "addPropLevels": [
       5,
@@ -90646,7 +90646,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15017,
     "addPropLevels": [
@@ -90675,7 +90675,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15017,
     "addPropLevels": [
@@ -90704,7 +90704,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15017,
     "addPropLevels": [
@@ -90733,7 +90733,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15017,
     "addPropLevels": [
@@ -90762,7 +90762,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15017,
     "addPropLevels": [
       5,
@@ -90790,7 +90790,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15017,
     "addPropLevels": [
@@ -90819,7 +90819,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15017,
     "addPropLevels": [
@@ -90848,7 +90848,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15017,
     "addPropLevels": [
@@ -90877,7 +90877,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15017,
     "addPropLevels": [
@@ -90906,7 +90906,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15017,
     "addPropLevels": [
       5,
@@ -90934,7 +90934,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15017,
     "addPropLevels": [
@@ -90963,7 +90963,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15017,
     "addPropLevels": [
@@ -90992,7 +90992,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15017,
     "addPropLevels": [
@@ -91021,7 +91021,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15017,
     "addPropLevels": [
@@ -91050,7 +91050,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15017,
     "addPropLevels": [
       5,
@@ -91078,7 +91078,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15017,
     "addPropLevels": [
@@ -91107,7 +91107,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15017,
     "addPropLevels": [
@@ -91136,7 +91136,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15017,
     "addPropLevels": [
@@ -91165,7 +91165,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15017,
     "addPropLevels": [
@@ -91194,7 +91194,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15017,
     "addPropLevels": [
       5,
@@ -91222,7 +91222,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15017,
     "addPropLevels": [
@@ -91251,7 +91251,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15017,
     "addPropLevels": [
@@ -91280,7 +91280,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15017,
     "addPropLevels": [
@@ -91309,7 +91309,7 @@
     "showPic": "Eff_UI_RelicIcon_15017_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15017,
     "addPropLevels": [
@@ -93028,7 +93028,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15018,
     "addPropLevels": [
       5,
@@ -93056,7 +93056,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15018,
     "addPropLevels": [
@@ -93085,7 +93085,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15018,
     "addPropLevels": [
@@ -93114,7 +93114,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15018,
     "addPropLevels": [
@@ -93143,7 +93143,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15018,
     "addPropLevels": [
@@ -93172,7 +93172,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15018,
     "addPropLevels": [
       5,
@@ -93200,7 +93200,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15018,
     "addPropLevels": [
@@ -93229,7 +93229,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15018,
     "addPropLevels": [
@@ -93258,7 +93258,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15018,
     "addPropLevels": [
@@ -93287,7 +93287,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15018,
     "addPropLevels": [
@@ -93316,7 +93316,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15018,
     "addPropLevels": [
       5,
@@ -93344,7 +93344,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15018,
     "addPropLevels": [
@@ -93373,7 +93373,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15018,
     "addPropLevels": [
@@ -93402,7 +93402,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15018,
     "addPropLevels": [
@@ -93431,7 +93431,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15018,
     "addPropLevels": [
@@ -93460,7 +93460,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15018,
     "addPropLevels": [
       5,
@@ -93488,7 +93488,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15018,
     "addPropLevels": [
@@ -93517,7 +93517,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15018,
     "addPropLevels": [
@@ -93546,7 +93546,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15018,
     "addPropLevels": [
@@ -93575,7 +93575,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15018,
     "addPropLevels": [
@@ -93604,7 +93604,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15018,
     "addPropLevels": [
       5,
@@ -93632,7 +93632,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15018,
     "addPropLevels": [
@@ -93661,7 +93661,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15018,
     "addPropLevels": [
@@ -93690,7 +93690,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15018,
     "addPropLevels": [
@@ -93719,7 +93719,7 @@
     "showPic": "Eff_UI_RelicIcon_15018_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15018,
     "addPropLevels": [
@@ -94088,7 +94088,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15019,
     "addPropLevels": [
@@ -94117,7 +94117,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15019,
     "addPropLevels": [
@@ -94146,7 +94146,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15019,
     "addPropLevels": [
@@ -94175,7 +94175,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15019,
     "addPropLevels": [
@@ -94204,7 +94204,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15019,
     "addPropLevels": [
@@ -94233,7 +94233,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15019,
     "addPropLevels": [
@@ -94262,7 +94262,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15019,
     "addPropLevels": [
@@ -94291,7 +94291,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15019,
     "addPropLevels": [
@@ -94320,7 +94320,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15019,
     "addPropLevels": [
@@ -94349,7 +94349,7 @@
     "showPic": "Eff_UI_RelicIcon_15019_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15019,
     "addPropLevels": [
@@ -94718,7 +94718,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15020,
     "addPropLevels": [
@@ -94747,7 +94747,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15020,
     "addPropLevels": [
@@ -94776,7 +94776,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15020,
     "addPropLevels": [
@@ -94805,7 +94805,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15020,
     "addPropLevels": [
@@ -94834,7 +94834,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15020,
     "addPropLevels": [
@@ -94863,7 +94863,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15020,
     "addPropLevels": [
@@ -94892,7 +94892,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15020,
     "addPropLevels": [
@@ -94921,7 +94921,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15020,
     "addPropLevels": [
@@ -94950,7 +94950,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15020,
     "addPropLevels": [
@@ -94979,7 +94979,7 @@
     "showPic": "Eff_UI_RelicIcon_15020_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15020,
     "addPropLevels": [
@@ -95348,7 +95348,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15021,
     "addPropLevels": [
@@ -95377,7 +95377,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15021,
     "addPropLevels": [
@@ -95406,7 +95406,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15021,
     "addPropLevels": [
@@ -95435,7 +95435,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15021,
     "addPropLevels": [
@@ -95464,7 +95464,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15021,
     "addPropLevels": [
@@ -95493,7 +95493,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15021,
     "addPropLevels": [
@@ -95522,7 +95522,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15021,
     "addPropLevels": [
@@ -95551,7 +95551,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15021,
     "addPropLevels": [
@@ -95580,7 +95580,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15021,
     "addPropLevels": [
@@ -95609,7 +95609,7 @@
     "showPic": "Eff_UI_RelicIcon_15021_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15021,
     "addPropLevels": [
@@ -95978,7 +95978,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15022,
     "addPropLevels": [
@@ -96007,7 +96007,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15022,
     "addPropLevels": [
@@ -96036,7 +96036,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15022,
     "addPropLevels": [
@@ -96065,7 +96065,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15022,
     "addPropLevels": [
@@ -96094,7 +96094,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15022,
     "addPropLevels": [
@@ -96123,7 +96123,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15022,
     "addPropLevels": [
@@ -96152,7 +96152,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15022,
     "addPropLevels": [
@@ -96181,7 +96181,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15022,
     "addPropLevels": [
@@ -96210,7 +96210,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15022,
     "addPropLevels": [
@@ -96239,7 +96239,7 @@
     "showPic": "Eff_UI_RelicIcon_15022_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15022,
     "addPropLevels": [
@@ -96608,7 +96608,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15023,
     "addPropLevels": [
@@ -96637,7 +96637,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15023,
     "addPropLevels": [
@@ -96666,7 +96666,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15023,
     "addPropLevels": [
@@ -96695,7 +96695,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15023,
     "addPropLevels": [
@@ -96724,7 +96724,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15023,
     "addPropLevels": [
@@ -96753,7 +96753,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15023,
     "addPropLevels": [
@@ -96782,7 +96782,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15023,
     "addPropLevels": [
@@ -96811,7 +96811,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15023,
     "addPropLevels": [
@@ -96840,7 +96840,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15023,
     "addPropLevels": [
@@ -96869,7 +96869,7 @@
     "showPic": "Eff_UI_RelicIcon_15023_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15023,
     "addPropLevels": [
@@ -97238,7 +97238,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15024,
     "addPropLevels": [
@@ -97267,7 +97267,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15024,
     "addPropLevels": [
@@ -97296,7 +97296,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15024,
     "addPropLevels": [
@@ -97325,7 +97325,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15024,
     "addPropLevels": [
@@ -97354,7 +97354,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15024,
     "addPropLevels": [
@@ -97383,7 +97383,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15024,
     "addPropLevels": [
@@ -97412,7 +97412,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15024,
     "addPropLevels": [
@@ -97441,7 +97441,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15024,
     "addPropLevels": [
@@ -97470,7 +97470,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15024,
     "addPropLevels": [
@@ -97499,7 +97499,7 @@
     "showPic": "Eff_UI_RelicIcon_15024_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15024,
     "addPropLevels": [
@@ -99168,7 +99168,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "setId": 15000,
     "addPropLevels": [
       5,
@@ -99195,7 +99195,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 1,
     "setId": 15000,
     "addPropLevels": [
@@ -99223,7 +99223,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 2,
     "setId": 15000,
     "addPropLevels": [
@@ -99251,7 +99251,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15000,
     "addPropLevels": [
@@ -99279,7 +99279,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15000,
     "addPropLevels": [
@@ -99307,7 +99307,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "setId": 15000,
     "addPropLevels": [
       5,
@@ -99334,7 +99334,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 1,
     "setId": 15000,
     "addPropLevels": [
@@ -99362,7 +99362,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 2,
     "setId": 15000,
     "addPropLevels": [
@@ -99390,7 +99390,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15000,
     "addPropLevels": [
@@ -99418,7 +99418,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15000,
     "addPropLevels": [
@@ -99446,7 +99446,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "setId": 15000,
     "addPropLevels": [
       5,
@@ -99473,7 +99473,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 1,
     "setId": 15000,
     "addPropLevels": [
@@ -99501,7 +99501,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 2,
     "setId": 15000,
     "addPropLevels": [
@@ -99529,7 +99529,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15000,
     "addPropLevels": [
@@ -99557,7 +99557,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15000,
     "addPropLevels": [
@@ -99585,7 +99585,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "setId": 15000,
     "addPropLevels": [
       5,
@@ -99612,7 +99612,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 1,
     "setId": 15000,
     "addPropLevels": [
@@ -99640,7 +99640,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 2,
     "setId": 15000,
     "addPropLevels": [
@@ -99668,7 +99668,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15000,
     "addPropLevels": [
@@ -99696,7 +99696,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15000,
     "addPropLevels": [
@@ -99724,7 +99724,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "setId": 15000,
     "addPropLevels": [
       5,
@@ -99751,7 +99751,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 1,
     "setId": 15000,
     "addPropLevels": [
@@ -99779,7 +99779,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 2,
     "setId": 15000,
     "addPropLevels": [
@@ -99807,7 +99807,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15000,
     "addPropLevels": [
@@ -99835,7 +99835,7 @@
     "showPic": "Eff_UI_RelicIcon_15000_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15000,
     "addPropLevels": [
@@ -100203,7 +100203,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15025,
     "addPropLevels": [
@@ -100232,7 +100232,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15025,
     "addPropLevels": [
@@ -100261,7 +100261,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15025,
     "addPropLevels": [
@@ -100290,7 +100290,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15025,
     "addPropLevels": [
@@ -100319,7 +100319,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15025,
     "addPropLevels": [
@@ -100348,7 +100348,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15025,
     "addPropLevels": [
@@ -100377,7 +100377,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15025,
     "addPropLevels": [
@@ -100406,7 +100406,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15025,
     "addPropLevels": [
@@ -100435,7 +100435,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15025,
     "addPropLevels": [
@@ -100464,7 +100464,7 @@
     "showPic": "Eff_UI_RelicIcon_15025_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15025,
     "addPropLevels": [
@@ -100833,7 +100833,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 3,
     "setId": 15026,
     "addPropLevels": [
@@ -100862,7 +100862,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_1",
     "rankLevel": 5,
     "mainPropDepotId": 5000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 964,
     "appendPropNum": 4,
     "setId": 15026,
     "addPropLevels": [
@@ -100891,7 +100891,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 3,
     "setId": 15026,
     "addPropLevels": [
@@ -100920,7 +100920,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_2",
     "rankLevel": 5,
     "mainPropDepotId": 2000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 961,
     "appendPropNum": 4,
     "setId": 15026,
     "addPropLevels": [
@@ -100949,7 +100949,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 3,
     "setId": 15026,
     "addPropLevels": [
@@ -100978,7 +100978,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_3",
     "rankLevel": 5,
     "mainPropDepotId": 3000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 965,
     "appendPropNum": 4,
     "setId": 15026,
     "addPropLevels": [
@@ -101007,7 +101007,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 3,
     "setId": 15026,
     "addPropLevels": [
@@ -101036,7 +101036,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_4",
     "rankLevel": 5,
     "mainPropDepotId": 4000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 962,
     "appendPropNum": 4,
     "setId": 15026,
     "addPropLevels": [
@@ -101065,7 +101065,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 3,
     "setId": 15026,
     "addPropLevels": [
@@ -101094,7 +101094,7 @@
     "showPic": "Eff_UI_RelicIcon_15026_5",
     "rankLevel": 5,
     "mainPropDepotId": 1000,
-    "appendPropDepotId": 501,
+    "appendPropDepotId": 963,
     "appendPropNum": 4,
     "setId": 15026,
     "addPropLevels": [
