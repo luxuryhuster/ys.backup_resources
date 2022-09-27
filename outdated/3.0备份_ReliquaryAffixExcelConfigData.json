@@ -2061,6 +2061,15 @@
         "upgradeWeight": 1000
     },
     {
+        "id": 951001,
+        "depotId": 951,
+        "groupId": 3,
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "propValue": 0.14569999277591705,
+        "weight": 100000,
+        "upgradeWeight": 1000
+    },
+    {
         "id": 951002,
         "depotId": 951,
         "groupId": 6,
